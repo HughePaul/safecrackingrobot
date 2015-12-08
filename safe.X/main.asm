@@ -1,11 +1,11 @@
 ;*******************************************************************************
 ;                                                                              *
-;    Filename:                                                                 *
-;    Date:                                                                     *
-;    File Version:                                                             *
-;    Author:                                                                   *
-;    Company:                                                                  *
-;    Description:                                                              *
+;    Filename: main.asm                                                        *
+;    Date: 8th December 2015                                                   *
+;    File Version: 1                                                           *
+;    Author: Paul Winkler                                                      *
+;    Company: -                                                                *
+;    Description: Safe cracking servo control                                  *
 ;                                                                              *
 ;*******************************************************************************
 
