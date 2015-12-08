@@ -1,0 +1,9 @@
+safe.X/build
+safe.X/debug
+safe.X/dist
+Makefile-variables.mk
+safe.X/nbproject/private
+Package-default.bash
+Makefile-local-default.mk
+Makefile-impl.mk
+Makefile-default.mk
