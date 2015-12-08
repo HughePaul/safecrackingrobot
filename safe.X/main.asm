@@ -20,7 +20,6 @@
 servo_period
 delay_counter
 delay_counter_inner
-state
 dwell_period
 
 	endc
@@ -65,7 +64,6 @@ RESET
 	MOVLW	SERVO_POS1
 	MOVWF	servo_period
 	CLRF	dwell_period
-	CLRF	state
 	
 	BSF	GPIO, MOTOR_PIN
 MAIN_LOOP
